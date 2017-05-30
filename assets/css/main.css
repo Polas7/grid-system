@@ -28,3 +28,8 @@ header{
 	top: 40%;
 	left: 35%;
 }
+.button{
+	width: 100px;
+	height: 30px;
+	float: right;
+}
